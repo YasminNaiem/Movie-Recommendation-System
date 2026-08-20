@@ -1,0 +1,11 @@
+movie_id,title,genres,collaborative_score,content_score,hybrid_score
+1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,0.9999999999999982,0.0,0.6999999999999987
+1204,Lawrence of Arabia (1962),Adventure|Drama|War,0.6122337065224635,0.0,0.4285635945657244
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,0.5980229335930165,0.0,0.41861605351511155
+1148,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,0.5503672710692324,0.0,0.3852570897484627
+2067,Doctor Zhivago (1965),Drama|Romance|War,0.48923962067869553,0.0,0.3424677344750868
+720,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,0.48410445225751886,0.0,0.3388731165802632
+1223,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,0.48327834677264114,0.0,0.33829484274084876
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,0.4131101265110768,0.0,0.28917708855775376
+1104,"Streetcar Named Desire, A (1951)",Drama,0.4006631710432149,0.0,0.28046421973025043
+3451,Guess Who's Coming to Dinner (1967),Drama,0.3456350655819289,0.0,0.24194454590735023

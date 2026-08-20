@@ -1,0 +1,9 @@
+
+Hybrid Movie Recommendation System Report
+
+Collaborative Filtering RMSE: 0.8828
+Collaborative Filtering MAE: 0.6767
+
+Precision: 0.7489
+Recall: 0.511
+F1-Score: 0.6074
